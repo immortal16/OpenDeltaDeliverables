@@ -1,0 +1,39 @@
+Huobi BTCUSD Perpetual
+CoinGlass: BTC-USD
+ccxt: BTC/USD:BTC
+timestamp: 2020-03-25
+
+Binance BTCUSD CM
+CoinGlass: BTCUSD_PERP
+ccxt: BTCUSD_PERP
+timestamp: Maximum time interval is 200 days.
+
+Deribit BTC-PERPETUAL
+CoinGlass: BTC-PERPETUAL
+ccxt: BTC/USD:BTC
+timestamp: 2018-08-14
+
+Bybit BTCUSD
+CoinGlass: BTCUSD
+ccxt: BTC/USD:BTC
+timestamp: 2018-11-14
+
+Bitget BTCUSD
+CoinGlass: BTCUSD_DMCBL
+ccxt: BTC/USD:BTC
+timestamp: 2023-04-19
+
+Bitmex XBTUSD.P
+CoinGlass: XBTUSD
+ccxt: BTC/USD:BTC
+timestamp: 2015-09-25
+
+Okex BTCUSD-PERP
+CoinGlass: BTC-USD-SWAP ?
+ccxt: BTC/USD:BTC
+timestamp: 2020-01-10
+
+Kraken PI_XBTUSD
+CoinGlass: PI_XBTUSD
+ccxt: BTC/USD:BTC
+timestamp: 2020-02-26
