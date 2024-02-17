@@ -29,7 +29,7 @@ ccxt: BTC/USD:BTC
 timestamp: 2015-09-25
 
 Okex BTCUSD-PERP
-CoinGlass: BTC-USD-SWAP ?
+CoinGlass: BTC-USD-SWAP
 ccxt: BTC/USD:BTC
 timestamp: 2020-01-10
 
